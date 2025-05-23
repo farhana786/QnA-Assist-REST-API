@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+snowflake-snowpark-python
+snowflake-connector-python
+snowflake-sqlalchemy
+cryptography
+SQLAlchemy
